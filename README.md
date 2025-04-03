@@ -2,9 +2,9 @@
 
 
 
-##  Goal
+##  Project Purpose
 
-**The Project goal is to (1) develop a machine learning model to predict house sale prices and (2) use your analysis to provide advice to home owners about how to improve their house and whether or not to sell at all.**
+To demonstrate a complete machine learning pipeline from data analysis and feature engineering to model training, evaluation, deploment and interpretation for predicting house sale prices with a real-world dataset.
 
 ##  Business Case
 
@@ -14,7 +14,7 @@ This project creates a model that **predicts home sale prices** and provides **p
 ##  Goal
 
 1. Build an accurate **regularized polynomial regression model** for house price prediction.  
-2. Minimize model bias and overfitting using **Ridge and Lasso** techniques.  
+2. Minimize model bias and overfitting using **Ridge ** techniques.  
 3. Translate model insights into **actionable advice for homeowners** about upgrades and sales timing.
 
 ##  Deliverables
