@@ -1,12 +1,12 @@
 #  Housing Price Prediction - Regularized Polynomial Regression Model & Strategic Insights
 
----
+--
 
 ##  Project Purpose
 
 To demonstrate a complete machine learning pipeline — from data analysis and feature engineering to model training, evaluation, and interpretation — for predicting house sale prices with a real-world dataset.
 
----
+--
 
 ##  Business Case
 
