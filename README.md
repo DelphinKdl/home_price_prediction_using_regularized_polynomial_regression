@@ -18,7 +18,7 @@ Our two main objectives are:
 - ⚙ **Modular, Scalable Codebase**  
   Clean and reusable code structured using the `cookiecutter-data-science` template for reproducibility and scalability.
 ---
-## 💡 Key Features
+## Key Features
 
 - Feature engineering with polynomial terms  
 - Regularization tuning (hyperparameter optimization for alpha)  
@@ -27,7 +27,7 @@ Our two main objectives are:
 - Recommendations based on model interpretation ( features boost price the most)
 
 ---
-## 📁Project Structure
+## Project Structure
 
 ```bash
 home_price_prediction/
