@@ -2,9 +2,9 @@
 
 
 
-##  Project Purpose
+##  Goal
 
-To demonstrate a complete machine learning pipeline from data analysis and feature engineering to model training, evaluation, and interpretation for predicting house sale prices with a real-world dataset.
+**The Project goal is to (1) develop a machine learning model to predict house sale prices and (2) use your analysis to provide advice to home owners about how to improve their house and whether or not to sell at all.**
 
 ##  Business Case
 
