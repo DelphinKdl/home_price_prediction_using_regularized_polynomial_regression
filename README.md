@@ -14,7 +14,7 @@ This project creates a model that **predicts home sale prices** and provides **p
 ##  Goal
 
 1. Build an accurate **regularized polynomial regression model** for house price prediction.  
-2. Minimize model bias and overfitting using **Ridge ** techniques.  
+2. Minimize model bias and overfitting using **Ridge** techniques.  
 3. Translate model insights into **actionable advice for homeowners** about upgrades and sales timing.
 
 ##  Deliverables
